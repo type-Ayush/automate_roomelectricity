@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://image2url.com/images/1764000126794-4245c613-7490-44f1-a00c-c440e9a4a2a7.png" alt="Logo" width="240"/>
-</p>
+
 # Bidirectional AI Person Counter
 
 This repository serves as the development platform for **Bidirectional AI Person Counter**, a project primarily created and owned by **Rohit Raj**.
