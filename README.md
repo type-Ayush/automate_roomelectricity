@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://image2url.com/images/1764000126794-4245c613-7490-44f1-a00c-c440e9a4a2a7.png" alt="Logo" width="240"/>
-
+</p>
 # Bidirectional AI Person Counter
 
 This repository serves as the development platform for **Bidirectional AI Person Counter**, a project primarily created and owned by **Rohit Raj**.
@@ -12,8 +12,8 @@ This repository serves as the development platform for **Bidirectional AI Person
 This project is a comprehensive **AI-integrated control system** designed to **monitor, tally, and dynamically manage lighting and electronic equipment** in partitioned spaces. The system utilizes sensor logic and an embedded rule-based AI for high-reliability people counting and automated room management.
 
 ### Core Functionality:
-* **Bidirectional Counting Logic:** Determines movement direction (Entry/Exit) by monitoring the sequential trigger across two IR sensors (IR1 → IR2 for Entry; IR2 → IR1 for Exit).
-* **Rule-based AI & Control:** The entire system logic is implemented as a custom, highly efficient **rule-based AI** in C++ running on the microcontroller. This handles all counting, system state management, and adaptive control processes.
+* **Bidirectional Counting Logic:** Determines movement direction (Entry/Exit) by monitoring the sequential trigger across two IR sensors ($\text{IR}_1 \rightarrow \text{IR}_2$ for Entry; $\text{IR}_2 \rightarrow \text{IR}_1$ for Exit). 
+* **Rule-based AI & Control:** The entire system logic is implemented as a custom, highly efficient **rule-based AI** in **C++** running on the microcontroller. This handles all counting, system state management, and adaptive control processes.
 * **System Integration & Adaptive Control:** The count and direction data are fed into the embedded system which autonomously controls lights and electronics based on complex, user-defined rules. The system supports 3 operational modes and 4 room size configurations, toggleable via a 4-bit switch interface.
 
 ### 💡 Operational Modes:
@@ -24,7 +24,7 @@ This project is a comprehensive **AI-integrated control system** designed to **m
 ### Key Technologies:
 * **Programming Language & Logic:** C++ for implementing the core rule-based AI logic.
 * **Microcontroller/Processing Unit:** **Arduino** (or compatible board) for handling the sensor inputs and executing the embedded system logic.
-* **Sensor Layer:** IR Sensors (IR1, IR2)
+* **Sensor Layer:** IR Sensors ($\text{IR}_1$, $\text{IR}_2$)
 
 ---
 
@@ -47,3 +47,4 @@ This project is the official submission of **Rohit Raj**.
 
 ### Hardware Setup
 Hardware components and detailed wiring instructions will be provided in a separate document (e.g., `HARDWARE.md` or a wiki page).
+
