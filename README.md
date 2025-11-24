@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://image2url.com/images/1763998486472-11b03c2a-979c-4142-961f-419a5c73837b.png" alt="Logo" width="150"/>
+  <img src="https://image2url.com/images/1764000126794-4245c613-7490-44f1-a00c-c440e9a4a2a7.png" alt="Logo" width="240"/>
 </p>
 # Bidirectional AI Person Counter
 
